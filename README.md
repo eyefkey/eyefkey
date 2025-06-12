@@ -1,4 +1,10 @@
-<h1 align="center">👋Hey, I'm sc47</h1>
+<h1 align="center">👋Hey, I'm Harley</h1>
+
+<p align="center">
+  I'm a passionate and security-conscious web developer focused on building efficient, scalable, and modern applications.<br />
+  I specialize in full-stack web development using cutting-edge technologies like Next.js, NestJS, Laravel, and GraphQL.<br />
+  My development philosophy emphasizes clean code, UI/UX best practices, and Defense-in-Depth principles.
+</p>
 
 ###
 
@@ -28,7 +34,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/emp3r07" title="sc47#1234" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+</a>
+
 </div>
 
 ###
