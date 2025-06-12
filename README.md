@@ -1,5 +1,3 @@
-# sc47
-Me
 <h1 align="center">👋Hey, I'm sc47</h1>
 
 ###
