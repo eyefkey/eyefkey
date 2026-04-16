@@ -1,8 +1,8 @@
-<h1 align="center">👋Hey, I'm Eyefkey</h1>
+<h1 align="center">👋Hey, I'm Harley</h1>
 
 <p align="center">
-  I'm a passionate and security-conscious web developer focused on building efficient, scalable, and modern applications.<br />
-  I specialize in full-stack web development using cutting-edge technologies like Next.js, NestJS, Laravel, and GraphQL.<br />
+  I'm a passionate and security-conscious full stack developer focused on building efficient, scalable, and modern applications.<br />
+  I specialize in full-stack web development using cutting-edge technologies like Next.js, NestJS, Laravel, Vue.js, and GraphQL.<br />
   My development philosophy emphasizes clean code, UI/UX best practices, and Defense-in-Depth principles.
 </p>
 
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
 </div>
 
 ###
